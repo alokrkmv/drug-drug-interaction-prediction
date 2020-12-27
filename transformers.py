@@ -1,3 +1,8 @@
+'''
+Author : Alok Kumar
+Date : 27/12/2020
+This file contains all the functions which are required to transform data and create integrated similarity matrix from the data
+'''
 import numpy as np
 import math
 def FindDominantSet(W, K):
