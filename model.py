@@ -1,7 +1,7 @@
 '''
 
 Author : Alok Kumar
-Date : 27/12/2020
+Date : 24/12/2020
 This file contains the code for the Dense neural network that is used as the learning and prediction layer in our project.
 This model can be trained by running main file. The fine tuned model is also saved as keras model and can be hot reloaded for performing predictions.
 
